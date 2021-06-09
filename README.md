@@ -41,7 +41,7 @@
 
 <a href="https://zh.moegirl.org.cn/index.php?title=%E4%BA%9A%E6%89%98%E8%8E%89" target="_blank">
   
-  <img align="left" src="img/atri.png" width="350px" alt= "atri" title="atri" />
+  <img align="left" src="img/atri.png" width="400px" alt= "atri" title="atri" />
 </a>
 
 [![Fishroud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fishroud&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
