@@ -34,6 +34,7 @@
   - [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)  
 
 - 社交账号
+
 [![QQ](https://img.shields.io/badge/QQ-3334679655-lightgrey?style=flat-square&logo=Tencent%20QQ&logoColor=white&labelColor=EB1923)](https://wpa.qq.com/msgrd?v=3&uin=3334679655&site=qq&menu=yes)  [![Steam](https://img.shields.io/badge/Steam-Fishroud-lightgrey?style=flat-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/profiles/76561198797703039/)   [![bilibili](https://img.shields.io/badge/bilibili-%E9%B1%BC%E4%BB%99Fishroud-lightgrey?style=flat-square&logo=bilibili&logoColor=white&labelColor=00A1D6)](https://space.bilibili.com/101267193)
 
 
