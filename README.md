@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Fishroud&show_icons=true&include_all_commits=true" alt="kaygb's github stats"/>
 
-这里是鱼仙，来自中国的在读大学生
+这里是鱼仙，来自中国的在读男大学生
 
 Home: https://www.fishroud.xyz
 
@@ -10,7 +10,7 @@ Steam:[Fishroud](https://steamcommunity.com/profiles/76561198797703039/)
 
 bilibili:[鱼仙Fishroud](https://space.bilibili.com/101267193)
 
-[![](/img/fishroud.PNG)](https://www.fishroud.xyz)
+[![](/img/background.jpg)](https://www.pixiv.net/artworks/36919122)
 
 
 <!--
