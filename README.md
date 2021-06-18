@@ -47,9 +47,6 @@
 
 [![Fishroud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fishroud&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  
-
-
-
  <!-- steam-box start -->
  <!-- steam-box end -->
 
