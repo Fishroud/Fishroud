@@ -46,7 +46,16 @@
 </a>
 
  <!-- steam-box start -->
- <!-- steam-box end -->
+#### <a href="https://gist.github.com/dd3e3d30a8ddfe78411be0698796ba7b" target="_blank">🎮 Steam playtime leaderboard</a>
+```text
+🔫 Counter-Strike: Global Offensive 🕘 374 hrs 8 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 356 hrs 42 mins
+🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 323 hrs 16 mins
+🚓 Grand Theft Auto V               🕘 272 hrs 26 mins
+🎮 War Thunder                      🕘 218 hrs 55 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
+<!-- steam-box end -->
 
 [![Fishroud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fishroud&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  
