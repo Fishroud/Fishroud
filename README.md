@@ -45,10 +45,12 @@
   <img align="left" src="img/atri.png" width="300px" alt= "atri" title="atri" />
 </a>
 
-[![Fishroud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fishroud&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- 
  <!-- steam-box start -->
  <!-- steam-box end -->
+
+[![Fishroud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fishroud&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ 
+
 
 <!--
 **Fishroud/Fishroud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
