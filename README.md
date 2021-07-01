@@ -51,7 +51,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 374 hrs 33 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 362 hrs 5 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 323 hrs 16 mins
-🛩️ War Thunder                      🕘 286 hrs 31 mins
+🛩️ War Thunder                      🕘 289 hrs 47 mins
 🚓 Grand Theft Auto V               🕘 272 hrs 26 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
