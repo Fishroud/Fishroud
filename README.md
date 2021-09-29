@@ -48,7 +48,7 @@
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/dd3e3d30a8ddfe78411be0698796ba7b" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🛩️ War Thunder                      🕘 540 hrs 51 mins
+🛩️ War Thunder                      🕘 545 hrs 45 mins
 🔫 Counter-Strike: Global Offensive 🕘 377 hrs 10 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 367 hrs 18 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 323 hrs 16 mins
